@@ -1,0 +1,1 @@
+# js-proto-inheritance-examples
